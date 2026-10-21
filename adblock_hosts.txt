@@ -1,0 +1,82 @@
+# ==============================================================================
+# Zeus Video Caster - Lista de Bloqueo de Anuncios y Trackers (adblock_hosts.txt)
+# ==============================================================================
+# Sube este archivo en la misma carpeta o repositorio junto a settings.json.
+# La app lo descarga y actualiza automáticamente cada vez que refresca la configuración.
+#
+# Formatos soportados:
+# 1. Dominios limpios:
+#    doubleclick.net
+#    popads.net
+# 2. Formato hosts estándar:
+#    0.0.0.0 doubleclick.net
+#    127.0.0.1 popads.net
+#
+# Líneas que comiencen con #, ! o // se consideran comentarios y se ignoran.
+# ==============================================================================
+
+popads.net
+popcash.net
+adstera.com
+doubleclick.net
+exoclick.com
+onclickads.net
+propellerads.com
+bebi.com
+adsco.re
+trafficjunky.com
+scorecardresearch.com
+taboola.com
+outbrain.com
+agl003.com
+a.mrktmtrcs.net
+adme2.click
+amd-cdn-1.ffb7df5a878b59e42e257c042f54bed2.com
+bcp.crwdcntrl.net
+cvt-s1.adangle.online
+doo.lat
+e.dtscout.com
+imasdk.googleapis.com
+llvpn.com
+luugy.com
+match.adsrvr.org
+mc.yandex.ru
+my.rtmark.net
+p.mrktmtrcs.net
+pixel.onaudience.com
+s10.histats.com
+s4.histats.com
+t.dtscdn.com
+t.dtscout.com
+tags.crwdcntrl.net
+test.streamhg.com
+s.pemsrv.com
+bkcdn.net
+omeliepoetry.cfd
+attirecideryeah.com
+effectivecpmnetwork.com
+gigglemagnetismunaired.com
+jr.prahmnatured.com
+insolubledoomedbenignity.com
+zy.aphacicfable.com
+cacklegrievingtank.com
+brigadedelegatesandbox.com
+95thharpnational.com
+show-sb.com
+cloudpiko.com
+caliente.mx
+first.eshkol.one
+phruk.org
+nresystems.com
+earnvids.com
+connatix.com
+pubmatic.com
+rubiconproject.com
+adnxs.com
+openx.net
+criteo.com
+id5-sync.com
+amazon-adsystem.com
+opoxv.com
+exdynsrv.com
+tsyndicate.com
